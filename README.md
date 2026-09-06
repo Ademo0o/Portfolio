@@ -1,0 +1,30 @@
+BIENVENUE SUR MON PORTFOLIO
+
+Le jury consulte le portfolio ainsi que le tableau de synthèse avant le début de l’épreuve.
+
+Partie 1 : ~10 minutes
+ 
+Présentation du parcours de professionnalisation :
+- 30 secondes : introduction personnelle et présentation rapide de l’étudiant.
+- 4 minutes : retour sur les activités professionnelles réalisées en première année : missions effectuées, tâches menées, TP marquants et compétences mobilisées.
+- 4 minutes : exposé des activités professionnelles de deuxième année : interventions, projets techniques, TP significatifs et montée en compétence.
+- 30 secondes : mise en avant du tableau de synthèse qui regroupe l’ensemble des compétences du bloc 1 (fichier : Tableau de synthèse des réalisations professionnelles.xlsx).
+
+Ce tableau inclut :
+- Les AP et TP réalisés sur les deux années de formation
+- Les travaux effectués en alternance durant la 1ère année
+- Les travaux réalisés en alternance durant la 2ème année
+
+1 minute : Veille technologique
+Présentation de la démarche de veille :
+- Fonctionnement de la veille passive et active
+- Outils utilisés
+- Synthèse du ou des thèmes étudiés
+- Sélection de 8 à 10 articles analysés
+
+
+
+
+
+Partie 2 : 10 minutes (+ 20 minutes si EF4)
+Échange libre entre l’étudiant et le jury : approfondissement, questions techniques, justification des choix, retour d’expérience, méthodologie, sécurité, organisation, etc.
